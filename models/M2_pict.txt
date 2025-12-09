@@ -1,0 +1,5 @@
+Browser: Chrome, Firefox, Edge, Safari
+OS: Windows, Linux, MacOS
+Connection: Wifi, Cable, 4G
+Device: Desktop, Laptop, Tablet, Phone
+Resolution: 720p, 1080p, 1440p, 4K
