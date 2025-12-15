@@ -1,3 +1,0 @@
-Browser: Chrome, Firefox, Edge
-OS: Windows, Linux, MacOS
-Connection: Wifi, Cable, 4G
